@@ -8,9 +8,11 @@
 #include <stdio.h>
 
 /**
- * main - Print a randon number and state whether it is positive, negative, or zero.
+ * main - Print if the number is positive, zero, or negative
  *
- * Return: Always 0.
+ * Description: using the main function
+ * this program prints "Programming is positive, zero, or negative
+ * Return: 0
  */
 int main(void)
 {
@@ -18,18 +20,19 @@ int main(void)
 
 	srand(time(0));
 	n = rand() - Rand_Max / 2;
+	  /* your code goes there */
 	  
 	if (n > 0)
 	{
-		printf("%d is positive\n", n);
+		printf("%i is positive\n", n);
+	}
+	else if (n == 0)
+	{
+		printf("%i is zero\n", n);
 	}
 	else if (n < 0)
 	{
-		printf("%d is negative\n", n);
-	}
-	else 
-	{
-		printf("%d is zero\n", n);
+		printf("%i is negative\n", n);
 	}
 	return (0);
 }
