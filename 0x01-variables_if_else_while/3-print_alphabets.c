@@ -12,7 +12,7 @@
  *
  *    * Description: using the main function
  *
- *     * this program prints Uppercase and Lowercase Alphabets
+ *     
  *
  *      * Return: 0
  *
