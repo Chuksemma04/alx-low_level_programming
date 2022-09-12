@@ -16,9 +16,9 @@
  *
  *    * my code
  *
- *     * Return: sucess always
+ *     * Return: (0)
  *
- *      */
+ */
 
 int main(void)
 
