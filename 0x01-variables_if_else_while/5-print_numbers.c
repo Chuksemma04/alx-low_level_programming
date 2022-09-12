@@ -6,8 +6,6 @@
  *
  *  * main - Write a program that prints all single digit numbers of base 10
  *
- *  
- *
  *    * Description: using the main function
  *
  *     * this program prints Uppercase and Lowercase Alphabets
