@@ -15,9 +15,9 @@
  *   * Description: using the main function
  *
  *    * my code
- 
+ *
  *     * Return: (0);
- 
+ * 
  */
 
 int main(void)
