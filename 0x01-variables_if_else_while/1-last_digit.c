@@ -14,11 +14,11 @@
  *
  *   * Description: using the main function
  *
- *    * this program prints " Programming os positive, zero, or negative
+ *    * my code
  *
  *     * Return: sucess always
  *
- *      */
+ */
 
 int main(void)
 
