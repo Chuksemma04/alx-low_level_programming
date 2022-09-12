@@ -16,7 +16,7 @@
  *
  *    * my code
  *
- *     * Return:  success always
+ *     * Return: success always
  * 
  */
 
