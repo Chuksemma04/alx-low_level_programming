@@ -6,7 +6,7 @@
 
 
 
-/**
+/*
  *
  *  * main - putchar print Uppercase and lowercase alphabets
  *
