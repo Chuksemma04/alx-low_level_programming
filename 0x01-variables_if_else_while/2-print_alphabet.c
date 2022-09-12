@@ -4,7 +4,7 @@
 
 
 
-/**
+/*
  *
  * * main - putchar print lowercase alphabets
  *
@@ -16,7 +16,7 @@
  *
  * * Return: 0
  *
- **/
+ */
 
 int main(void)
 
