@@ -16,9 +16,9 @@
  *
  *    * my code
  *
- *     * Return: (0);
+ *     * Return:  success always
  * 
- */
+  */
 
 int main(void)
 
