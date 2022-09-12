@@ -10,11 +10,11 @@
 
 /**
  *
- *  * main -Entry point
+ *  * main - Entry point
  *
- *   *
+ *   * Description: using the main function
  *
- *    * my code
+ *    * this program prints " Programming os positive, zero, or negative
  *
  *     * Return: sucess always
  *
