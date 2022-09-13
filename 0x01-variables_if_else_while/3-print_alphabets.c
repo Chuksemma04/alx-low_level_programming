@@ -1,27 +1,15 @@
 #include <stdio.h>
-
 #include <stdlib.h>
 
 
-
 /**
+ * main - putchar print Uppercase and lowercase alphabets
  *
- *  * main - putchar print Uppercase and lowercase alphabets
- *
- *   *
- *
- *    * Description: using the main function
- *
- *     * this program prints Uppercase and Lowercase Alphabets 
- *
- *      * Return: 0
- *
+ * Description: using the main function
+ * this program prints Uppercase and Lowercase Alphabets 
+ * Return: 0
  */
-
-
-
 int main(void)
-
 {
 
 	char ch;
@@ -30,7 +18,7 @@ int main(void)
 
 	{
 
-		putchar(ch);
+	putchar(ch);
 
 	}
 
@@ -40,7 +28,7 @@ int main(void)
 
 	{
 
-		putchar(ch);
+	putchar(ch);
 
 	}
 
