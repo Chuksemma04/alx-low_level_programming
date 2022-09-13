@@ -6,7 +6,7 @@
  * main - putchar print Uppercase and lowercase alphabets
  *
  * Description: using the main function
- * this program prints Uppercase and Lowercase Alphabets 
+ * this program prints Uppercase and Lowercase Alphabets
  * Return: 0
  */
 int main(void)
@@ -18,7 +18,7 @@ int main(void)
 
 	{
 
-	putchar(ch);
+		putchar(ch);
 
 	}
 
@@ -28,13 +28,14 @@ int main(void)
 
 	{
 
-	putchar(ch);
+		putchar(ch);
 
 	}
 
 
 
 	putchar('\n');
+
 
 
 	return (0);
