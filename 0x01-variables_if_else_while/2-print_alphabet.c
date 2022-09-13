@@ -1,25 +1,15 @@
 #include <stdio.h>
-
 #include <stdlib.h>
 
 
-
-/*
+/**
+ * main - putchar print lowercase alphabets
  *
- * * main - putchar print lowercase alphabets
- *
- *
- *
- * * Description: using the main function
- *
- * * this program prints Lowercase Alphabets a-z
- *
- * * Return: 0
- *
+ * Description: using the main function
+ * this program prints Lowercase Alphabets a-z
+ * Return: 0
  */
-
 int main(void)
-
 {
 
 	int i;
