@@ -1,21 +1,14 @@
 #include <stdio.h>
 
-/*
+
+/**
+ * main - putchar print 0-9
  *
- *  * main - putchar print 0-9
- *
- *    * Description: using the main function
- *
- *     * this program prints base 10 numbers
- *
- *      * Return: 0
- *
+ * Description: using the main function
+ * this program prints base 10 numbers
+ * Return: 0
  */
-
-
-
 int main(void)
-
 {
 
 	int i;
