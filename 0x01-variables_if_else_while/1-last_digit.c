@@ -4,25 +4,19 @@
 
 #include <stdio.h>
 
-/* more headers goes there */
-
 
 
 /*
  *
- *  * main - Entry point
+ * main - Entry point
  *
- *   * Description: using the main function
- *
- *    * my code
- *
- *     * Return: success always
- * 
+ * Description: using the main function
+ * my code
+ * Return: success always
  */
 
 int main(void)
-
-{
+	{
 
 	int n, lastdigit;
 

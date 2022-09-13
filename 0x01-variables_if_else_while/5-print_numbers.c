@@ -1,16 +1,13 @@
 #include <stdio.h>
 
 
-
-/*
+/**
  *
- *  * main - Write a program that prints all single digit numbers of base 10
+ * main - Write a program that prints all single digit numbers of base 10
  *
- *    * Description: using the main function
+ * Description: prints Uppercase and Lowercase Alphabets
  *
- *     * this program prints Uppercase and Lowercase Alphabets
- *
- *      * Return: 0
+ * Return: Always 0 (Success)
  *
  */
 
